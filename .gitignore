@@ -1,6 +1,6 @@
 # Ignore Hugo resource files
 *.hugo*.lock
 resources/
-public/
+#public/
 config/development/
 test.txt
